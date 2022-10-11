@@ -12,7 +12,7 @@
 </div>
 
 ### Um pouco sobre mim...
-- 🎓 Graduando de Análise e Desenvolvimento de Sistemas - IESB
+- 🎓 Graduando de Análise e Desenvolvimento de Sistemas
 - 🎈 Aprimorando minhas skills em desenvolvimento
 - 🔭 Trabalhando com Banco de Dados
 - 🌱 Estudando ReactJS
