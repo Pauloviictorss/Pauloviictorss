@@ -15,7 +15,7 @@
 - 🎓 Graduando de Análise e Desenvolvimento de Sistemas
 - 🎈 Aprimorando minhas skills em desenvolvimento
 - 🔭 Trabalhando com Banco de Dados
-- 🌱 Estudando ReactJS
+- 🌱 Estudando AngularJS
 - 🔍 Buscando oportunidades em Front-End
 
 
