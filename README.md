@@ -14,8 +14,7 @@
 ### Um pouco sobre mim...
 - 🎓 Graduando de Análise e Desenvolvimento de Sistemas
 - 🎈 Aprimorando minhas skills em desenvolvimento
-- 🔭 Trabalhando com Banco de Dados
-- 🌱 Estudando AngularJS
+- 🌱 Estudando ReactJS e React Native
 - 🔍 Buscando oportunidades em Front-End
 
 
