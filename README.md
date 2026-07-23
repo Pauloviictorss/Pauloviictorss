@@ -12,10 +12,9 @@
 </div>
 
 ### Um pouco sobre mim...
-- 🎓 Graduando de Análise e Desenvolvimento de Sistemas
-- 🎈 Aprimorando minhas skills em desenvolvimento
-- 🌱 Estudando ReactJS e React Native
-- 🔍 Buscando oportunidades em Front-End
+- 🎓 Graduado em Análise e Desenvolvimento de Sistemas
+- 🎈 Aprimorando minhas skills em ServiceNow
+- 🌱 Sempre em movimento
 
 
 
